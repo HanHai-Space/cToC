@@ -6,7 +6,7 @@
 
 >考研/   
 │    
-├── [数学](https://blog.csdn.net/SoulmateY/article/details/135281617)/    
+├── [数学](https://github.com/HanHai-Space/cToC/tree/main/%E8%80%83%E7%A0%94/%E6%95%B0%E5%AD%A6)/    
 │        
 >...（更新中...）     
 
